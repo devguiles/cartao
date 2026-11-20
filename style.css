@@ -1,0 +1,53 @@
+body {
+    background-color: #c73bb42f;
+}
+
+.container {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #d3d3d3;
+    background-color: #fffbfb;
+    border-radius: 12px;
+    width: 300px;
+    padding: 16px;
+    box-shadow: 0px 0px 20px #d3d3d3;
+}
+
+.destaque {
+    width: 300px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.categoria {
+    background-color: #f1c4fa;
+    font-size: 14px;
+    color: #651375;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 50px;
+}
+
+.titulo {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: tahoma;
+    color: #292929;
+}
+
+.descricao {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #555555;
+    line-height: 26px;
+}
+
+.autor {
+    font-size: 14px;
+    font: arial;
+    font-style: italic;
+}
